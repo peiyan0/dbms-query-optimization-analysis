@@ -1,7 +1,7 @@
 # An In-Depth Analysis of Query Optimization Techniques in Modern DBMS
 
 ## Abstract
-This repository contains the data synthesis and visualization artifacts for the research paper "An In-Depth Analysis of Query Optimization Techniques in Modern Database Management Systems." [cite_start]The study presents a comparative analysis of rule-based, cost-based, adaptive, and machine learning-based approaches, evaluating them on query latency, resource utilization, and scalability[cite: 15, 17].
+This repository contains the data synthesis and visualization artifacts for the research paper "An In-Depth Analysis of Query Optimization Techniques in Modern Database Management Systems." The study presents a comparative analysis of rule-based, cost-based, adaptive, and machine learning-based approaches, evaluating them on query latency, resource utilization, and scalability.
 
 ## Authors
 * **Ng Huey Xuan** (Analysis of Results & Discussion)
