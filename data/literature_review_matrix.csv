@@ -1,1 +1,7 @@
-
+Reference,Problem Statement,Algorithm/Methodology,Key Findings,Category
+"Patel et al. [1]","Evolution of DBMS challenges","Literature Survey","Relational ensures consistency; NoSQL offers flexibility","Foundational"
+"Chaudhuri [18]","Synthesis of SQL optimization","Theoretical Synthesis","Cost-based models are effective but fragile with bad stats","Cost-Based"
+"Ramdoss [6]","Poorly optimized queries affect CPU/IO","Comparative Analysis","CBO performs better than Rule-based in most cases","Comparative"
+"Krishna [20]","Distributed NoSQL query efficiency","Adaptive Indexing","Data partitioning is critical for latency reduction","Adaptive"
+"Panwar [15]","Traditional methods fail in dynamic workloads","ML Model Comparison (CatBoost)","ML models (59% accuracy) outperform traditional (48%)","ML-Based"
+"Li et al. [21]","Spark SQL cost models ignore resource allocation","Deep Learning with Attention","Resource-aware DL models outperform rule-based methods","ML-Based"
