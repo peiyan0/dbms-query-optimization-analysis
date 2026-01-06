@@ -1,0 +1,4 @@
+Metric,RDBMS (MySQL),NoSQL (MongoDB),Rationale
+Join Performance,High Efficiency,Poor / Complex,RDBMS uses cost-based join reordering.
+Write Throughput,Moderate,High,NoSQL favors horizontal scaling for write-heavy loads.
+Schema Flexibility,Strict,Dynamic,NoSQL allows for evolving data types without downtime.

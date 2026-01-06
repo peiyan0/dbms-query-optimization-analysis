@@ -1,1 +1,6 @@
 
+Optimization Technique,Avg Query Latency ms,CPU Utilization Pct,Memory Overhead,Scalability Trend,Best Use Case
+Rule-Based,200,25,Low,Poor,Legacy RDBMS
+Cost-Based,110,42.5,Medium,Moderate,Traditional RDBMS
+Adaptive,90,50,Medium,Good,Distributed NewSQL
+ML-Based,70,65,High,Very Good,Cloud-native DBMS
