@@ -27,3 +27,12 @@ This project supports the findings that:
 | Adaptive               | ~90              | High        | Medium-High     |
 | ML-Based               | ~70              | Very High   | High            |
 *(Data derived from Table VI and Fig 2 in the paper)*
+
+## Results Visualization
+Below are the key visualizations generated from the analysis:
+
+![Latency Comparison](results/fig2_latency_comparison.png)
+
+![Performance vs Overhead](results/fig5_performance_vs_overhead.png)
+
+![Scalability Trends](results/fig6_scalability_trends.png)
