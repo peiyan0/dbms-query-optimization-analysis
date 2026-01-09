@@ -42,10 +42,9 @@ The **greatest gains** come from combining techniques (e.g., ML-based plan selec
 **Key Trade-off:** Balancing optimization sophistication with its inherent overhead, complexity, and operational cost. The "explainability gap" in AI/ML methods remains a significant barrier to adoption in critical systems.
 
 ## Results Visualization
-Below are the key visualizations generated from the analysis:
-
-![Latency Comparison](results/fig2_latency_comparison.png)
-
-![Performance vs Overhead](results/fig5_performance_vs_overhead.png)
-
-![Scalability Trends](results/fig6_scalability_trends.png)
+### Performance vs Complexity Trade-off Analysis
+![Performance vs Complexity Trade-off Analysis](results/fig3_new_tradeoff_analysis.png)
+### Query Optimization Techniques: Performance Analysis
+![Query Optimization Techniques: Performance Analysis](results/fig1_new_optimization_technique.png)
+### Hybrid Optimization Architecture (Three-Layer Approach) 
+![Hybrid Optimization Architecture (Three-Layer Approach)](results/fig2_new_architecture_process_flow.png)
