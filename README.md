@@ -30,7 +30,7 @@ This project supports the findings that:
 | **5. Machine Learning & AI-Driven Techniques** | The most promising frontier. ML models achieve superior cost estimation, adaptive planning, and resource management, especially in complex environments. | **Transformative (30-40% latency reduction, 31.7% cost savings, >90% cost accuracy).** | **Highly promising** for autonomous, elastic systems. Models like DRAL adapt without full retraining. | **High complexity:** Significant training overhead, "black box" explainability issues, integration complexity with legacy systems. |
 | **6. Domain-Specific Optimizations** | Specialized techniques yield major gains in their target domains: IoT (DL models), Big Data (learned cost models), and concurrent OLAP (predictive scheduling). | **Substantial (up to 50% faster training, 2.9x better workload completion).** | **Effective** within their target domains (IoT streams, Spark clusters, batch systems). | Techniques are often not generalizable; require domain-specific tuning and data. |
 
-## OVERALL SYNTHESIS
+## Overall Synthesis
 **No single technique is optimal for all scenarios.** Modern optimization requires a **hybrid, layered strategy**:
 1. **Foundation:** CBO + physical tuning.
 2. **Execution Layer:** Parallel/distributed processing.
