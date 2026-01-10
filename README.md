@@ -48,3 +48,7 @@ The **greatest gains** come from combining techniques (e.g., ML-based plan selec
 ![Query Optimization Techniques: Performance Analysis](results/fig1_new_optimization_technique.png)
 ### Hybrid Optimization Architecture (Three-Layer Approach) 
 ![Hybrid Optimization Architecture (Three-Layer Approach)](results/fig2_new_architecture_process_flow.png)
+### ML/AI Technique Comparison 
+![ML/AI Technique Comparison](results/fig4_new_ml_ai.png)
+### Scalability and Environment Analysis 
+![Scalability and Environment Analysis](results/fig5_new_scalability_trends.png)
